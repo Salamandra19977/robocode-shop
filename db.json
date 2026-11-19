@@ -21,6 +21,12 @@
             "photo_url": "https://i.pinimg.com/736x/ba/39/03/ba390392710e874a0ecd1779956a6dcb.jpg",
             "balance": 5000
         },
+        {   "id": 2,
+            "name": "tima",
+            "sirname": "pro",
+            "photo_url": "https://www.google.com/imgres?q=%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D0%BE%D0%B4&imgurl=https%3A%2F%2Fstatic.tildacdn.net%2Ftild3234-3931-4435-a232-666432306534%2FLogo.png&imgrefurl=https%3A%2F%2Frobocode.ua%2Floyalty-ua&docid=qCY29v5sButnVM&tbnid=xfnFWuLDMw_QbM&vet=12ahUKEwi4hri3u5SYAxXMLBAIHZTkEh8QnPAOegQIJRAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi4hri3u5SYAxXMLBAIHZTkEh8QnPAOegQIJRAA",
+            "balance": 0 
+        },
         {
             "id": 4,
             "name": "lerie",
