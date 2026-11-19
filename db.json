@@ -8,27 +8,34 @@
             "balance": 1000
         },
         {
-            "id": 5,
+            "id": 2,
+            "name": "Максим",
+            "sirname": "Шаповаленко",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvctbRJdq8SSNLLYZngBy2QLhj-zTOsFE4gPva26GWLNQ0CPSQwOqNHU&s=10",
+            "balance": 5000
+        },
+        {
+            "id": 3,
             "name": "Sasha",
             "sirname": "Mesik",
             "photo_url": "https://sitiorandom.com/wp-content/uploads/2024/08/Goldfish-2-e1724099193229.webp",
             "balance": 10
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "daria",
             "sirname": "burian",
             "photo_url": "https://i.pinimg.com/736x/ba/39/03/ba390392710e874a0ecd1779956a6dcb.jpg",
             "balance": 5000
         },
-        {   "id": 2,
+        {   "id": 5,
             "name": "tima",
             "sirname": "pro",
             "photo_url": "https://www.google.com/imgres?q=%D1%80%D0%BE%D0%B1%D0%BE%D0%BA%D0%BE%D0%B4&imgurl=https%3A%2F%2Fstatic.tildacdn.net%2Ftild3234-3931-4435-a232-666432306534%2FLogo.png&imgrefurl=https%3A%2F%2Frobocode.ua%2Floyalty-ua&docid=qCY29v5sButnVM&tbnid=xfnFWuLDMw_QbM&vet=12ahUKEwi4hri3u5SYAxXMLBAIHZTkEh8QnPAOegQIJRAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi4hri3u5SYAxXMLBAIHZTkEh8QnPAOegQIJRAA",
             "balance": 0 
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "lerie",
             "sirname": "Robocode",
             "photo_url": "https://robocode.digitee.space/assets/header-logo-CZdXph7N.svg",
@@ -44,5 +51,21 @@
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
         },
+        {
+            "id": 2,
+            "name": "iPhone 2G",
+            "description": "iPhone 2G 4GB",
+            "price": 3000,
+            "author_id": 2,
+            "photo_url": "https://i.ebayimg.com/images/g/Fz4AAeSwvb1p2KKW/s-l1600.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Дрова",
+            "description": "Дрова. 100грн за 10 кг",
+            "price": 100,
+            "author_id": 2,
+            "photo_url": "https://ireland.apollo.olxcdn.com/v1/files/exhkdk5s6q3e-UA/image;s=1000x700"
+        }
     ]
 }
