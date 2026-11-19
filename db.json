@@ -31,9 +31,9 @@
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
         },  
-{
+{       
             "id": 9,
-            "name": "PocofonXultra7",
+            "name": "PocofonXultra7",PocofonXultra7
             "description": "Phone",
             "price": 19995,
             "author_id": 3,
