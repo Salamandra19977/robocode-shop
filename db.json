@@ -8,10 +8,10 @@
             "balance": 1000
         },
         {
-            "id": 2,
-            "name": "Максим",
-            "sirname": "Шаповаленко",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvctbRJdq8SSNLLYZngBy2QLhj-zTOsFE4gPva26GWLNQ0CPSQwOqNHU&s=10",
+            "id": 5,
+            "name": "daria",
+            "sirname": "burian",
+            "photo_url": "https://i.pinimg.com/736x/ba/39/03/ba390392710e874a0ecd1779956a6dcb.jpg",
             "balance": 5000
         }
     ],
@@ -23,6 +23,6 @@
             "price": 40000,
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
-        },
+        }
     ]
 }
