@@ -30,6 +30,15 @@
             "price": 40000,
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
+        },  
+{
+            "id": 9,
+            "name": "PocofonXultra7",
+            "description": "Phone",
+            "price": 19995,
+            "author_id": 3,
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxOQZQ0zB8-J2v8M4KPmMkfGTkvhmZReHbXHolOJFAA&s=10"
         },
     ]
 }
+     
