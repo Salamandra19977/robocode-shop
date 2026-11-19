@@ -42,12 +42,19 @@
             "balance": 5000
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Artem",
             "sirname": "Buialskiy",
             "photo_url": "https://storage.googleapis.com/prod-digitee-root/robocode/avatars/367/1737809607718",
             "balance": 1000
         },
+        {
+            "id": 8,
+            "name": "Nazar",
+            "sirname": "Shepeliuk",
+            "photo_url": "https://storage.googleapis.com/prod-digitee-root/robocode/avatars/367/1737809607718",
+            "balance": 1000000
+        }
     ],
     "products": [
         {
@@ -89,14 +96,22 @@
             "price": 1200,
             "author_id": 6,
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1x9VzSBCsFdcuCV-8fgItkg-FTwaIpZWmOaoh7VGQcadxA2E1DGsIic&s=10"
-        }
-                {
+        },
+        {
             "id": 2,
             "name": "Sony PlayStation 5 Pro ",
             "description": "PS5 Pro",
             "price": 99989,
             "author_id": 2,
             "photo_url": "https://content1.rozetka.com.ua/goods/images/big/499040827.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Grand Theft Auto 6 ",
+            "description": "GTA 6",
+            "price": 4500,
+            "author_id": 8,
+            "photo_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/4a35c9a8490c69fe89af0f52d4ac0249b230b4fdb12e8469.jpg"
         },
     ]
 }
