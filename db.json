@@ -44,5 +44,13 @@
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
         },
+        {
+           "id": 4,
+            "name": "гарбуз",
+            "description": "гарбуз",
+            "price": 100,
+            "author_id": 3,
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtanu4Nr4vNc3HR69FGsabCpaLDrpu6gW2weej-UKhOg&s=10" 
+        }
     ]
 }
