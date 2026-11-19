@@ -9,11 +9,11 @@
         },
         {
             "id": 2,
-            "name": "Максим",
-            "sirname": "Шаповаленко",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvctbRJdq8SSNLLYZngBy2QLhj-zTOsFE4gPva26GWLNQ0CPSQwOqNHU&s=10",
-            "balance": 5000
-        }
+            "name": "Artem",
+            "sirname": "Buialskiy",
+            "photo_url": "https://storage.googleapis.com/prod-digitee-root/robocode/avatars/367/1737809607718//4a569cb24b6b759f1a786e1e3a408692.webp",
+            "balance": 1000
+        },
     ],
     "products": [
         {
@@ -23,6 +23,14 @@
             "price": 40000,
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
+        },
+                {
+            "id": 2,
+            "name": "Sony PlayStation 5 Pro ",
+            "description": "PS5 Pro",
+            "price": 99989,
+            "author_id": 2,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/499040827.jpg"
         },
     ]
 }
