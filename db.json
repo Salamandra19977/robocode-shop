@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "sirname": "Robocode",
+            "photo_url": "https://robocode.digitee.space/assets/header-logo-CZdXph7N.svg",
+            "balance": 1000
+        },
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "PC",
+            "description": "Game PC",
+            "price": 40000,
+            "author_id": 1,
+            "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
+        },
+    ]
+}
