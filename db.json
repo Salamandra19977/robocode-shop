@@ -15,14 +15,14 @@
             "balance": 10
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Максим",
             "sirname": "Шаповаленко",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvctbRJdq8SSNLLYZngBy2QLhj-zTOsFE4gPva26GWLNQ0CPSQwOqNHU&s=10",
             "balance": 5000
         },
         {
-            "id": 2,
+            "id": 4,
             "name": "lerie",
             "sirname": "Robocode",
             "photo_url": "https://robocode.digitee.space/assets/header-logo-CZdXph7N.svg",
@@ -38,5 +38,21 @@
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
         },
+        {
+            "id": 2,
+            "name": "iPhone 2G",
+            "description": "iPhone 2G 4GB",
+            "price": 3000,
+            "author_id": 3,
+            "photo_url": "https://i.ebayimg.com/images/g/Fz4AAeSwvb1p2KKW/s-l1600.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Дрова",
+            "description": "Дрова. 100грн за 10 кг",
+            "price": 100,
+            "author_id": 3,
+            "photo_url": "https://ireland.apollo.olxcdn.com/v1/files/exhkdk5s6q3e-UA/image;s=1000x700"
+        }
     ]
 }
