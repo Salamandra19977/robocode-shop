@@ -66,6 +66,14 @@
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
         },
         {
+           "id": 4,
+            "name": "гарбуз",
+            "description": "гарбуз",
+            "price": 100,
+            "author_id": 3,
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtanu4Nr4vNc3HR69FGsabCpaLDrpu6gW2weej-UKhOg&s=10" 
+        },
+        {
             "id": 2,
             "name": "iPhone 2G",
             "description": "iPhone 2G 4GB",
@@ -102,7 +110,7 @@
             "name": "Sony PlayStation 5 Pro ",
             "description": "PS5 Pro",
             "price": 99989,
-            "author_id": 2,
+            "author_id": 7,
             "photo_url": "https://content1.rozetka.com.ua/goods/images/big/499040827.jpg"
         },
         {
