@@ -20,6 +20,13 @@
             "sirname": "Шаповаленко",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvctbRJdq8SSNLLYZngBy2QLhj-zTOsFE4gPva26GWLNQ0CPSQwOqNHU&s=10",
             "balance": 5000
+        },
+        {
+            "id": 2,
+            "name": "lerie",
+            "sirname": "Robocode",
+            "photo_url": "https://robocode.digitee.space/assets/header-logo-CZdXph7N.svg",
+            "balance": 5000
         }
     ],
     "products": [
