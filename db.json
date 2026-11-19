@@ -7,6 +7,13 @@
             "photo_url": "https://robocode.digitee.space/assets/header-logo-CZdXph7N.svg",
             "balance": 1000
         },
+        {
+            "id": 2,
+            "name": "Sasha",
+            "sirname": "Mesik",
+            "photo_url": "https://sitiorandom.com/wp-content/uploads/2024/08/Goldfish-2-e1724099193229.webp",
+            "balance": 10
+        },
     ],
     "products": [
         {
