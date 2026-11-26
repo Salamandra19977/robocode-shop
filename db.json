@@ -65,8 +65,8 @@
             "author_id": 1,
             "photo_url": "https://m.media-amazon.com/images/I/61GGZRBy8KL._AC_UF894,1000_QL80_.jpg"
         },  
-{       
-            "id": 9,
+        {       
+            "id": 2,
             "name": "PocofonXultra7",
             "description": "Phone",
             "price": 19995,
@@ -74,7 +74,7 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxOQZQ0zB8-J2v8M4KPmMkfGTkvhmZReHbXHolOJFAA&s=10"
         },
         {
-           "id": 4,
+           "id": 3,
             "name": "гарбуз",
             "description": "гарбуз",
             "price": 100,
@@ -82,7 +82,7 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtanu4Nr4vNc3HR69FGsabCpaLDrpu6gW2weej-UKhOg&s=10" 
         },
         {
-            "id": 2,
+            "id": 4,
             "name": "iPhone 2G",
             "description": "iPhone 2G 4GB",
             "price": 3000,
@@ -90,7 +90,7 @@
             "photo_url": "https://i.ebayimg.com/images/g/Fz4AAeSwvb1p2KKW/s-l1600.jpg"
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Дрова",
             "description": "Дрова. 100грн за 10 кг",
             "price": 100,
@@ -98,7 +98,7 @@
             "photo_url": "https://ireland.apollo.olxcdn.com/v1/files/exhkdk5s6q3e-UA/image;s=1000x700"
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "зелені камні",
             "description": "зелені камні за 1 кг за 50грн",
             "price": 50,
@@ -106,7 +106,7 @@
             "photo_url": "data:image/jpeg;base64,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"
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Ball",
             "description": "Volleyball ball",
             "price": 1200,
@@ -114,7 +114,7 @@
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1x9VzSBCsFdcuCV-8fgItkg-FTwaIpZWmOaoh7VGQcadxA2E1DGsIic&s=10"
         },
         {
-            "id": 2,
+            "id": 8,
             "name": "Sony PlayStation 5 Pro ",
             "description": "PS5 Pro",
             "price": 99989,
@@ -122,13 +122,13 @@
             "photo_url": "https://content1.rozetka.com.ua/goods/images/big/499040827.jpg"
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Grand Theft Auto 6 ",
             "description": "GTA 6",
             "price": 4500,
             "author_id": 8,
             "photo_url": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/4a35c9a8490c69fe89af0f52d4ac0249b230b4fdb12e8469.jpg"
-        },
+        }
     ]
 }
      
